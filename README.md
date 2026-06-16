@@ -26,15 +26,36 @@
         }
 
         .logo-adex {
-            max-width: 160px;
+            max-width: 220px;
             height: auto;
             margin-bottom: 1rem;
             filter: drop-shadow(0 2px 6px rgba(0,0,0,0.2));
         }
 
+        .grupo-info {
+            background: rgba(255,255,255,0.15);
+            padding: 1rem;
+            border-radius: 12px;
+            margin: 1rem auto;
+            max-width: 500px;
+            border: 1px solid rgba(255,255,255,0.3);
+        }
+
+        .grupo-info h3 {
+            margin-bottom: 0.8rem;
+            font-size: 1.2rem;
+        }
+
+        .grupo-info ul {
+            list-style: none;
+            font-size: 0.95rem;
+            line-height: 1.6;
+        }
+
         h1 {
             font-size: 2rem;
             text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+            margin-bottom: 0.5rem;
         }
 
         .contenedor-principal {
@@ -232,9 +253,24 @@
 <body>
 
     <div class="encabezado">
-        <!-- Logo oficial de ADEX -->
-        <img src="https://www.adexperu.org.pe/wp-content/uploads/2020/07/logo-adex.png" alt="Logo ADEX" class="logo-adex">
+        <!-- Logo oficial ADEX -->
+        <img src="https://www.adex.edu.pe/wp-content/uploads/2023/02/logo-adex-escuela.png" alt="Logo ADEX Escuela" class="logo-adex">
         <h1>Creatividad e Innovación</h1>
+        <p>Unidad Didáctica | ADEX Escuela de Especialización</p>
+
+        <!-- Información del Grupo -->
+        <div class="grupo-info">
+            <h3>📚 Grupo 3</h3>
+            <ul>
+                <li>Jhon Dayron Zárate</li>
+                <li>Joel Hualpa</li>
+                <li>Luis Yaranga</li>
+                <li>Orlando Zacarías</li>
+                <li>Matías Martinez</li>
+                <li>Andi De la Cruz</li>
+                <li>Fatima</li>
+            </ul>
+        </div>
     </div>
 
     <div class="contenedor-principal">
@@ -439,4 +475,3 @@
 
 </body>
 </html>
-
