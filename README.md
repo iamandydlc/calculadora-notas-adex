@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/iamandydlc/CALCULADORA-PROFESIONAL-DE-NOTAS/main/1781661864344.png" alt="Logo ADEX Escuela" style="max-width: 200px; margin: 0 auto 1.5rem; display: block;">
+<img src="1781661864344.png" alt="Logo ADEX Escuela" class="logo-adex">
 
 <!DOCTYPE html>
 <html lang="es">
