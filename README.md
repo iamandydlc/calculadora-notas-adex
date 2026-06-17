@@ -1,3 +1,10 @@
+<!-- Logo ADEX -->
+<img 
+  src="1781661864344.png" 
+  alt="Logo ADEX Escuela" 
+  class="logo"
+>
+>
 <!DOCTYPE html>
 <html lang="es">
 <head>
